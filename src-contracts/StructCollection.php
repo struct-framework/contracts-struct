@@ -7,6 +7,9 @@ namespace Struct\AbstractClass;
 use Struct\Contracts\StructCollectionInterface;
 use Struct\Contracts\StructInterface;
 
+/**
+ * @deprecated
+ */
 abstract class AbstractStructCollection implements StructCollectionInterface
 {
     /**
